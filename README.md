@@ -35,7 +35,6 @@ Currently we have only Windows release, Python code comes later.
  - ### Set your own provider, WS and RPC are supported.
  - ### Swap Your Tokens or BNB, connected to e.g. PancakeSwap.
 
----
 ## Special thanks to:
  - Web3.py
  - pyQt5
