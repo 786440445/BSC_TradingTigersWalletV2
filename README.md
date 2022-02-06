@@ -8,7 +8,7 @@ Using the wallet should be self-explanatory, if you have questions or problems, 
 Unfortunately, the final status of the wallet is not yet in sight, it works and is usable, but I still have a lot to do here.
 
 
-# Briefly on the project:
+## Briefly on the project:
 I have learned a lot last year, The Wallet, has at times slipped heavily into the background. Instead, I have focused this year strongly on the Solidity development, which was a success in my eyes, here also a big thanks to all users of the Sniper Bot, there my contracts were tested.
 The final product of the wallet is still far away, but we said from the beginning that we are a long-term project.
 Big thanks to Anon for the support in the Telegram channel!
