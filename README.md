@@ -2,6 +2,8 @@
 
 # Binance Smart Chain DeFi Wallet by Trading-Tigers.com 
 Hey Tigers,  
+Stealth launch, for beta only!
+
 Here is the V2.0 DeFi wallet, Thank you to all investors.
 Using the wallet should be self-explanatory, if you have questions or problems, visit our Telegram Channel, or open ISSUE.
 
