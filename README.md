@@ -1,4 +1,4 @@
-![TradingTigers](https://trading-tigers.com/assets/img/TradingTigers.png)  
+![TradingTigers](https://trading-tigers.com/logos/TradingTigers.png)  
 
 # Binance Smart Chain DeFi Wallet by Trading-Tigers.com 
 Hey Tigers,  
@@ -20,10 +20,10 @@ This is Used for Tokenomics:
   - 0.385% Tax To Dev/Team, this hold Motivation, this give us more time and caps development & server costs.
   - The other 0.385% buy back TIGS. 
         - Current 100% of Buyback TIGS goes to Liquidity.
-        - Later Split To 50/50 Liquidity & SoloStakePool.
+        - Later Split To 50/50 Liquidity & Solo StakePool.
 
-## Download 
-Currently we have only Windows release, Python code comes later.
+## Download & Install
++ [Install From Code](https://github.com/Trading-Tiger/BSC_TradingTigersWalletV2/blob/main/INSTALL.md)
 + [Windows Executable 64Bit](https://github.com/Trading-Tiger/BSC_TradingTigersWalletV2/releases)  
 
 ## Wallet images and preview

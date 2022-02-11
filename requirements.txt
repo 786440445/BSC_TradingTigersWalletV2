@@ -1,0 +1,5 @@
+web3
+pyqt5
+pyqrcode
+pysha3
+pillow
