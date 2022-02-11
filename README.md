@@ -25,7 +25,7 @@ Currently we have only Windows release, Python code comes later.
 + [Windows Executable 64Bit](https://github.com/Trading-Tiger/BSC_TradingTigersWalletV2/releases)  
 
 ## Wallet images and preview
-<img src="https://trading-tigers.com/assets/img/Wallet_Overview.png" height="450">
+<img src="https://trading-tigers.com/logos/Wallet_Overview.png" height="450">
 <br />
 
 ## Current Available functions:
