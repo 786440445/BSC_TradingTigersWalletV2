@@ -5,8 +5,8 @@
 # Install on Linux:
 Open a Terminal:
 ```shell
-sudo apt update
-sudo apt install build-essential python3 pyqt5 pyqt5-tools
+sudo apt-get update
+sudo apt-get install git build-essential python3-dev python3-pip
 git clone https://github.com/Trading-Tiger/BSC_TradingTigersWalletV2
 cd BSC_TradingTigersWalletV2
 python3 -m pip install -r requirements.txt
