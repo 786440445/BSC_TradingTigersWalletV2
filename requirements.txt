@@ -3,3 +3,4 @@ pyqt5
 qrcode
 pysha3
 pillow
+cryptography
