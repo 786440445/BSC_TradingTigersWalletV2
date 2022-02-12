@@ -1,5 +1,5 @@
 web3
 pyqt5
-pyqrcode
+qrcode
 pysha3
 pillow
