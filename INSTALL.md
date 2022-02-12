@@ -26,7 +26,7 @@ python3 -m pip install -r requirements.txt
 
 
 # Start:
-Before the first start, you must rename in "database the User-Data.db.example" to "User-Data.db".
+Before the first start, you must rename in database the "User-Data.db.example" to "User-Data.db".
 ```shell
 mv database/USER-DATA.db.example database/USER-DATA.db
 
