@@ -16,7 +16,8 @@ python3 -m pip install -r requirements.txt
 Install from code is a bit more complicated or make it simple and download from [RELEASES](https://github.com/Trading-Tiger/BSC_TradingTigersWalletV2/releases) installer.  
 
 - You need Microsoft Visual C++ Build Tools, Git, Python3 installed on your machine and added to your path.
-When you have made sure that this is installed, open a CMD and paste the following:
+
+When you have everything needed installed, then open a CMD and paste the following:
 ```shell
 git clone https://github.com/Trading-Tiger/BSC_TradingTigersWalletV2
 cd BSC_TradingTigersWalletV2
@@ -26,7 +27,8 @@ python3 -m pip install -r requirements.txt
 
 
 # Start:
-Before the first start, you must rename in database the "User-Data.db.example" to "User-Data.db".
+Before starting, you must rename the "User-Data.db.example" to "User-Data.db" in the database.
+
 ```shell
 mv database/USER-DATA.db.example database/USER-DATA.db
 
