@@ -10,12 +10,11 @@ Using the wallet should be self-explanatory. If you have any questions or proble
 
 Unfortunately, the final status of the wallet is not yet in sight, it works and is usable, but I still have a lot to do here. 
 
-## Briefly on the project:
-I learned a lot last year; the wallet has sometimes slipped heavily into the background. Instead, I have focused intensely on the Solidity development, which was a success in my eyes.
-Here is also a big thanks to all users of the Sniper Bot, which has given me a lot of helpful feedback and inputs.
-The final product of the wallet is still far away, but we said from the beginning that we are a long-term project.  
-Big thanks also to Anon for the support in the Telegram channel!   
-
+# SUPPORT & HELP
+Visit our community for help or questions, on Discord or Github you can open tickets!
+<div><a href="https://discord.gg/Qc6y9kyCgU" > <img src="https://trading-tigers.com/logos/joinDiscord.png" height="80"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/TradingTigersChat" > <img src="https://trading-tigers.com/logos/joinTelegram.png" height="80"></a>
+  
 ## Infos
 Attention, You pay [0.77% Tax](https://docs.trading-tigers.com/tokenomics/tokenomics) on your swap amount!
 
